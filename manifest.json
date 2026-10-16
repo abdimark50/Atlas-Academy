@@ -1,0 +1,10 @@
+{
+  "name": "Atlas Academy – Hauptstädte lernen",
+  "short_name": "Atlas Academy",
+  "description": "Offline-Lernapp für Länder und Hauptstädte",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071322",
+  "theme_color": "#10233a",
+  "icons": []
+}
